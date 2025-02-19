@@ -9,7 +9,7 @@ This report revisits the claims regarding the discovery of the TRUMP token on Ja
 - **Source:** The metadata is hosted on Arweave and can be viewed via the [provided link](https://viewblock.io/arweave/tx/cSCP0h2n1crjeSWE9KF-XtLciJalDNFs7Vf-Sm0NNY0).
 - **Key Information:**
   - **Token Name:** TRUMP
-  - **Additional Attributes:** The metadata likely includes a description, logo, symbol, and other identifying information typically used to describe a token.
+  - **Additional Attributes:** The metadata includes a description, logo, symbol, and other identifying information typically used to describe a token.
   - **Publication Date:** The metadata became available on January 18.
 
 ## Analysis
